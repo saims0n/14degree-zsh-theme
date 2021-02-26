@@ -17,14 +17,18 @@ And  in
 └──╼ # vim ~/.zshrc 
 
 
+add the them name in theme Location.
+change here....
+
+ZSH_THEME="14degree"
+
+
+
 ┌─[root@saims0n ][~/.oh-my-zsh/themes ]
 
 └──╼ # source ~/.zshrc
 
-change here....
-add the them name in theme Location.
 
-ZSH_THEME="14degree"
 
 
 
