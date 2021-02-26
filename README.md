@@ -8,14 +8,17 @@ And Many More fetures you Can Achive.
 You Just Need to clone this them and paste it in 
 
 ┌─[root@saims0n ][~/Desktop/Flutter_Projects/splash_screen/lib ]
+
 └──╼ # cd ~/.oh-my-zsh/themes 
 And  in  
 
 ┌─[root@saims0n ][~/.oh-my-zsh/themes ]
+
 └──╼ # vim ~/.zshrc 
 
 
 ┌─[root@saims0n ][~/.oh-my-zsh/themes ]
+
 └──╼ # source ~/.zshrc
 
 change here....
