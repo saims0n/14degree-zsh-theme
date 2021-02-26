@@ -26,6 +26,7 @@ ZSH_THEME="14degree"
 
 
 
+
 Now You're ready to use.
 
 
@@ -36,5 +37,5 @@ You Can also Modify this as Your Own Prefrences.
 <h align="center">
   <img src="https://user-images.githubusercontent.com/53370662/109313133-e0031980-786d-11eb-96a3-fde11296a43a.png" >
   <img src="https://user-images.githubusercontent.com/53370662/109313140-e2657380-786d-11eb-944d-ed3bf8604e90.png">
-  <img scr="https://user-images.githubusercontent.com/53370662/109314121-f78ed200-786e-11eb-8a4c-db922e2d4ff2.png" >
+  <img src="https://user-images.githubusercontent.com/53370662/109314121-f78ed200-786e-11eb-8a4c-db922e2d4ff2.png">
 </h>
